@@ -41,8 +41,8 @@ export default function ProjectCard({ repo, theme }) {
           <br />
           <img
             src={repo.img}
-            height="200px"
-            width="300px"
+            height="300px"
+            width="400px"
             display="block"
             alt="project"
           />
