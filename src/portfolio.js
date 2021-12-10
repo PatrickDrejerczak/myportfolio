@@ -12,7 +12,7 @@ const greeting = {
   full_name: "Patrick Drejerczak",
   subTitle: "Frontend Developer and React Enthusiast.",
   resumeLink:
-    "https://drive.google.com/file/d/1ztfTreWnQmvR8CThN_BV6VLfEonkOlkF/view?ths=true",
+    "https://drive.google.com/file/d/12xCZyjfKCUlIxVBUp8g-QbTgti1Q8zEK/view?usp=sharing",
   mail: "patrickdrejerczak@gmail.com",
 };
 
