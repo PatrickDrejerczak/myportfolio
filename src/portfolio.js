@@ -138,7 +138,7 @@ const projects = {
     {
       id: "0",
       name: "Codercook",
-      img: "https://ibb.co/W2h1jmP",
+      img: "https://i.ibb.co/5R0Vwbn/codercook.jpg",
       url: "https://codercook.netlify.app/",
       description:
         "Fully functional web application that allows people to search for recipes, create their own recipes and use the unique What´s in your fridge function to get more customized search results.",
@@ -168,7 +168,7 @@ const projects = {
     {
       id: "1",
       name: "SoSmap",
-      img: "https://ibb.co/nL3GD51",
+      img: "https://i.ibb.co/pLW739K/sosmap.jpg",
       url: "https://sos-dashboard.netlify.app/",
       description:
         "Fully functional dashboard developed for sosmap.net, a charity website. The company requested a better way to visualize donations and donations requests for their teams.",
