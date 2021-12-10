@@ -137,11 +137,11 @@ const projects = {
   data: [
     {
       id: "0",
-      name: "Codevid Relief",
-      img: "https://i.ibb.co/8rnRdmb/codevid.jpg",
-      url: "https://codevid-relief.netlify.app/",
+      name: "Codercook",
+      img: "https://ibb.co/W2h1jmP",
+      url: "https://codercook.netlify.app/",
       description:
-        "Fully functional web application that allows people in need to request money or goods donations and allows donors to donate directly to a person of their choice.",
+        "Fully functional web application that allows people to search for recipes, create their own recipes and use the unique What´s in your fridge function to get more customized search results.",
       languages: [
         {
           name: "HTML5",
@@ -167,10 +167,11 @@ const projects = {
     },
     {
       id: "1",
-      name: "Final Project",
-      img: "https://i.ibb.co/y0wk9vT/finalproject.jpg",
-      url: "",
-      description: "Fullstack graduation project TBA",
+      name: "SoSmap",
+      img: "https://ibb.co/nL3GD51",
+      url: "https://sos-dashboard.netlify.app/",
+      description:
+        "Fully functional dashboard developed for sosmap.net, a charity website. The company requested a better way to visualize donations and donations requests for their teams.",
       languages: [
         {
           name: "HTML5",
